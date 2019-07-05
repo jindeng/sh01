@@ -2,7 +2,7 @@
 
 int main(void)
 {
-
+	printf("hello world\n");
 	printf("hello local master\n");
 
 	printf("hello remote master\n");
